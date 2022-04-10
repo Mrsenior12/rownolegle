@@ -1,4 +1,4 @@
-To compile this project type:
+To compile this project type: <br>
   g++ -o tsp -fopenmp tsp.cpp 
   ./tsp
   
