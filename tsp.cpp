@@ -8,7 +8,7 @@
 #include <errno.h>
 #include <stdio.h>
 #include <time.h>
-#define n_cities 2000
+#define n_cities 700
 
 using namespace std;
 
